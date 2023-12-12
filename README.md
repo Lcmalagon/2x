@@ -26,9 +26,10 @@ Gideon is an advanced Alumni Database Chatbot, designed to provide insightful an
 
 3. **Using the Chatbot:**
    - Upload your alumni database CSV through the web interface.
-     <img width="349" alt="Screenshot 2023-12-11 at 23 10 04" src="https://github.com/Lcmalagon/Gideon/assets/42157414/6bdba954-2da6-4aed-bc63-d4d9cae18f0c">
+   
+      <img width="349" alt="Screenshot 2023-12-11 at 23 10 04" src="https://github.com/Lcmalagon/Gideon/assets/42157414/6bdba954-2da6-4aed-bc63-d4d9cae18f0c">
 
-<img width="879" alt="Screenshot 2023-12-11 at 23 10 08" src="https://github.com/Lcmalagon/Gideon/assets/42157414/33f41bd9-4414-4734-8b9a-9ef3af0c80db">
+      <img width="879" alt="Screenshot 2023-12-11 at 23 10 08" src="https://github.com/Lcmalagon/Gideon/assets/42157414/33f41bd9-4414-4734-8b9a-9ef3af0c80db">
    - Start asking questions about the alumni data.
    - The chatbot will respond with information based on the uploaded data.
 
